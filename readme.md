@@ -110,7 +110,7 @@ Over the weekend, figure out what kind of app you would like to create, and begi
 
 #### A Personal Dashboard
 - Build something useful for yourself!
-- You must CRUD something. What is helpful to you? Basketball scores? Projects? Surf height? Best thing's you've eaten in the Bay Area?
+- You must CRUD something. What is helpful to you? Basketball scores? Projects? Snow Reports? Best thing's you've eaten in the Denver?
 - Can you use AJAX to get and display the weather from an external API? Or to get your schedule for the day?
 
 ---
