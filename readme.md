@@ -23,9 +23,9 @@ Your app must:
 
 * **Have one model** (you can add more if it makes sense, but this should be done **after** you have an app with one model fully functioning) – your one model can be anything but a `user`, as we will not cover authentification until we get to Rails.
 
-* **Have complete RESTful routes** for your resource (model) with GET, POST, PUT, PATCH, and DELETE.
+* **Have complete RESTful routes** for your resource (model) with GET, POST, PUT, and DELETE.
 
-* **Use ActiveRecord to create a database table structure** and interact with your relationally-stored data.
+* **Use ActiveRecord or Mongoid (SQL or Mongo) to create a database table structure** and interact with your relationally-stored data.
 
 * **Include wireframes** that you designed during the planning process.
 
@@ -71,6 +71,17 @@ Your app may:
 * **User stories define what a specific type of user wants to accomplish with your application**. It's tempting to just make them _todo lists_ for what needs to get done, but if you keep them small & focused on what a user cares about from their perspective, it'll help you know what ot build
 
 * **Write pseudocode before you write actual code.** Thinking through the logic of something helps. This goes especially for the `business logic` of your app. For example in the first potential idea below, the business logic refers to the construction of the Haiku.
+
+---
+
+### Weekend Preparation
+
+Over the weekend, figure out what kind of app you would like to create, and begin your planning process.  Be prepared to present your plan to your consultants and your fellow developers.  Create a repo for your project, and send a link to your consultants.  We will be expecting all of the following to be included in that repo's README by Monday.
+
+1. A brief description of your app's idea.  Be sure to include front-end and back-end details.
+2. A link to a Trello board with at least 5 relevant user stories.
+3. At least one image showing the design of your app (e.g. wireframe, whiteboard, napkin drawing).
+4. A description of at least 4 routes: 1 each of GET, POST, PUT, and DELETE.
 
 ---
 
